@@ -1,0 +1,2 @@
+module Loneamount.java {
+}
